@@ -1,0 +1,19 @@
+{
+  "name": "advanced-devops-app",
+  "version": "1.0.0",
+  "description": "Advanced DevOps Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.3.2",
+    "prom-client": "^14.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.0.0"
+  }
+}s
